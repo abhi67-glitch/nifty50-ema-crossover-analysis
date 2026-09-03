@@ -1,0 +1,13 @@
+Trade #,Entry Date,Entry Price (INR),Exit Date,Exit Price (INR),P&L (%)
+1,2025-11-04,1328.50,2025-12-18,1281.20,-3.56%
+2,2026-01-12,1295.00,2026-02-20,1388.40,+7.21%
+3,2026-03-26,1340.00,2026-05-08,1312.10,-2.08%
+4,2026-06-02,1385.00,2026-07-28,1510.60,+9.07%
+5,2026-08-14,1465.00,2026-08-28,1422.00,-2.93%
+
+Summary Metrics
+Total Trades,5
+Number of Winners,2
+Win Rate,40.0%
+Largest Single Winner,+9.07%
+Largest Single Loser,-3.56%
